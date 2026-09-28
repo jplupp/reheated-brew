@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# Use this first to list your packages
 use strict;
 use warnings;
 use Getopt::Long;
